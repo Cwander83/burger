@@ -2,7 +2,7 @@
 Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat then DEVOUR them.
 
 ## Live Link 
-	The demo of the burger eating application can be found [here](https://sleepy-escarpment-26707.herokuapp.com/).
+The demo of the burger eating application can be found [here](https://sleepy-escarpment-26707.herokuapp.com/).
 
 ## How to use the Application
 
